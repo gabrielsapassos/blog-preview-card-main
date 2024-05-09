@@ -106,6 +106,8 @@ cursor: pointer;
 }
 
 .attribution a {
+  width: fit-content;
+  height: fit-content;
   text-decoration: none;
   color: white;
   background-color: black;
@@ -120,8 +122,4 @@ cursor: pointer;
   color: black !important;
   background-color: hsl(47, 88%, 63%);
   transition: all 0.5s;
-}
-
-.attribution a:visited {
-  color: white !important;
 }
