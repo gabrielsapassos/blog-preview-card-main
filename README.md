@@ -10,7 +10,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Site URL: [GitHub](https://gabrielsapassos.github.io/qr-code-component-solution/)
+- Site URL: [GitHub](https://gabrielsapassos.github.io/blog-preview-card-main/)
 
 ## My process
 
